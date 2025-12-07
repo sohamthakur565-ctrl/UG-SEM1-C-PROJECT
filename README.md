@@ -115,23 +115,3 @@ Shoolini University, Solan (H.P.)
 ⭐ *If you find this useful, give it a star on GitHub!*
 
 ---
-
-# ✅ **Short GitHub Description**
-
-Use this for the GitHub repo subtitle:
-
-**“A lightweight C-based file encryption & decryption tool using the XOR cipher — great for learning file handling, bitwise operations, and modular programming.”**
-
-If you want an even shorter one:
-
-**“C program for XOR-based file encryption/decryption with a clean menu-driven interface.”**
-
----
-
-If you'd like, I can also:
-✔ generate shields/badges
-✔ create a project logo/banner
-✔ write installation instructions
-✔ add screenshots
-
-Just tell me!
