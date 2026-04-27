@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int size;
+    cout << "Enter size : ";
+    cin >> size;
+    int arr[size];
+    cout << "Enter " << size << " elements : ";
+    for (int i = 0; i < size; i++)
+    {
+        cin >> arr[i];
+    }
+    int sum = 0;
+    for (int i = 0; i < size; i++)
+    {
+        sum += arr[i];
+    }
+
+    int avg = sum / size;
+
+    cout << endl;
+    cout << "Average : " << avg << endl;
+
+    for (int i = 0; i < size; i++)
+    {
+        if (arr[i] > avg)
+        {
+            cout << i << ". " << arr[i] << endl;
+        }
+    }
+
+    return 0;
+}
